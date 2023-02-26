@@ -4,9 +4,9 @@ namespace Entidades {
         public string cnpj {get; set;}
         public string ie {get; set;}
 
-        public override void pagarImposto(float v)
+        public override void pagarImposto(float valor)
         {
-            this.valor = v;
+            this.valor = valor;
             this.valorImposto = this.valor * 20 / 100;
             this.total = this.valor + this.valorImposto;
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renna\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj": {}
+    "C:\\Users\\renna\\Documents\\VSC#\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renna\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj": {
+    "C:\\Users\\renna\\Documents\\VSC#\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renna\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj",
+        "projectUniqueName": "C:\\Users\\renna\\Documents\\VSC#\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj",
         "projectName": "Senai_Controle_Clientes",
-        "projectPath": "C:\\Users\\renna\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj",
+        "projectPath": "C:\\Users\\renna\\Documents\\VSC#\\Senai_Controle_Clientes\\Senai_Controle_Clientes.csproj",
         "packagesPath": "C:\\Users\\renna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renna\\Senai_Controle_Clientes\\obj\\",
+        "outputPath": "C:\\Users\\renna\\Documents\\VSC#\\Senai_Controle_Clientes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renna\\AppData\\Roaming\\NuGet\\NuGet.Config"

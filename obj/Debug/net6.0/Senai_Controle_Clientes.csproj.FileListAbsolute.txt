@@ -1,0 +1,15 @@
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\bin\Debug\net6.0\Senai_Controle_Clientes.exe
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\bin\Debug\net6.0\Senai_Controle_Clientes.deps.json
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\bin\Debug\net6.0\Senai_Controle_Clientes.runtimeconfig.json
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\bin\Debug\net6.0\Senai_Controle_Clientes.dll
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\bin\Debug\net6.0\Senai_Controle_Clientes.pdb
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.csproj.AssemblyReference.cache
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.AssemblyInfoInputs.cache
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.AssemblyInfo.cs
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.dll
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\refint\Senai_Controle_Clientes.dll
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.pdb
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\Senai_Controle_Clientes.genruntimeconfig.cache
+C:\Users\renna\Documents\VSC#\Senai_Controle_Clientes\obj\Debug\net6.0\ref\Senai_Controle_Clientes.dll
